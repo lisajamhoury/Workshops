@@ -34,32 +34,32 @@ CultureHub workshop for students from Seoul visiting NYC. Focus on performance a
 
 ## Kinectron 
 
-#### Microsoft Kinect 
+### Microsoft Kinect 
 
 The Microsoft Kinect is an inexpensive motion capture camera originally created for use with Xbox. It was quickly adopted by artists. There are two versions released in 2010 and 2013. It has infrared, color and depth cameras, and it (Kinect V2) can detect up to six human skeletons in three-dimensional space. Microsoft officially announced it was discountinuing the Kinect in October 2017. 
 
-#### Projects made with Kinect 
+### Projects made with Kinect 
 
 [Firewall by Aaron Sherwood and Mike Allison](http://aaron-sherwood.com/blog/?p=558)<br>
 [XYZT Abstract Landscapes](https://www.am-cb.net/projets/xyzt)<br>
 [6:35 by Donald C. Shorter Jr., Yuli Cai, and Aaron Montoya-Moraga](https://vimeo.com/197487076) <br>
 [Clouds](https://cloudsdocumentary.com/#trailer) / [Depth Kit](http://www.depthkit.tv/)
 
-#### About Kinectron
+### About Kinectron
 
 Kinectron is an open source tool that brings realtime, motion capture data into the browser. Kinectron has two components—an electron application to broadcast Kinect2 data over a peer connection, and a client-side API to request and receive that data over a peer connection. Kinectron connects to creative coding frameworks like P5.js and three.js. It is node based, and it builds on the Node Kinect2 and PeerJS libraries.
 
-#### Getting Started — p5.js
+### Getting Started — p5.js
 
 [p5.js](https://p5js.org/) is a creative coding library created by [Lauren McCarthy](http://lauren-mccarthy.com/) and is developed by a communicty of collaborators. It is based on the creative coding library, Processing, and allows for interesting interactive graphics on websites. 
 
-#### Gettting Started — Kinectron in 2D
+### Gettting Started — Kinectron in 2D
 
 [Kinectron Github](https://github.com/kinectron) <br>
 [Kinectron Examples on p5.js Web Editor](https://github.com/kinectron/kinectron/wiki/Kinectron-Examples-in-P5-Alpha-Editor)<br>
 [ICM Dancer's Edition: Kinect by Dan O'Sullivan](https://itp.nyu.edu/classes/dance-f16/kinect/)
 
-#### More Advanced — Kinectron in 3D
+### More Advanced — Kinectron in 3D
 
 These examples use the creative coding library, [three.js](https://threejs.org/), which is used to create and display 3D graphics in the browswer with HTML5 and webGL. 
 
