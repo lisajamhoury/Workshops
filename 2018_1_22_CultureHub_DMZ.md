@@ -32,6 +32,10 @@ CultureHub workshop for students from Seoul visiting NYC. Focus on performance a
 [Self Support](http://lisajamhoury.com/portfolio/self-support/) <br>
 [Movement and Code](http://movementandcode.com/)
 
+### Exercise 1
+
+Pick one of the three themes. Write about how it relates to your project about the DMZ. 
+
 ## Kinectron 
 
 ### Microsoft Kinect 
@@ -66,17 +70,32 @@ These examples use the creative coding library, [three.js](https://threejs.org/)
 [Kinectron Three.js Examples](https://github.com/kinectron/kinectron/tree/master/examples/threejs_examples)<br>
  
 Coming soon... Kinectron-Three library... !
- 
+
+### Break
+
 ## Facing You Demos 
 
 We'll look at using two Kinectrons in one website. 
 
 These examples have been tested with very low latency from New York to Los Angeles and New York to Shanghai. 
 
+### Demo 1: 2D body image and skeleton
+
 [Refest Release](https://www.dropbox.com/s/68owuy3qkllgrdy/Kinectron-Refest-win32-x64.zip?dl=0)<br> 
 Test here: http://lmj.io/projects/refest/draw/
+
+### Exercise 2
+
+In groups of two, come up with a quick and dirty idea about how you could use this technology in relation to your project. 
+
+### Demo 2: 3D skeleton only 
 
 [RGBD Release](https://www.dropbox.com/s/d3u21gnh1ijva6q/KinectronRGBD-win32-x64.zip?dl=0)<br> 
 Link1: http://lmj.io/projects/facing/particles/<br>
 Link2: http://lmj.io/projects/facing/particles2/ <br>
-Link3: http://lmj.io/projects/facing/finalOneShader/
+Link3:
+http://lmj.io/projects/facing/finalOneShader/
+
+### Exercise 3
+
+Get back in your groups of two, and combine your group with another group of two. You are now in two groups of four. Discuss your ideas. Do you now have new ideas or features based on these additional experiences? Come up with one final idea to share. Both groups will have two minute to share one final idea to the other group.
