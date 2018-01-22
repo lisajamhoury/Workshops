@@ -14,7 +14,7 @@ CultureHub workshop for students from Seoul visiting NYC. Focus on performance a
 
 1. Alternative inputs to motion capture — sensors
 2. Embodiment in the third virtual space — Myron Krueger 
-3. How do computers see our bodies — glitches and creative computing 
+3. How do computers see our bodies — glitches and creative interpretations 
 
 ### Alternative inputs to motion capture 
 
@@ -32,9 +32,14 @@ CultureHub workshop for students from Seoul visiting NYC. Focus on performance a
 [Self Support](http://lisajamhoury.com/portfolio/self-support/) <br>
 [Movement and Code](http://movementandcode.com/)
 
+### Projects about presence
+
+"Habeas Corpus" by Laurie Anderson [Video](https://www.youtube.com/watch?v=kUKLA-W0nDM) / [Article](https://www.newyorker.com/magazine/2015/10/19/monumental-musical-events-alex-ross)<br/>
+["The Artist is Present" by Marina Abramovic](https://vimeo.com/72711715)
+
 ### Exercise 1
 
-Pick one of the three themes. Write about how it relates to your project about the DMZ. 
+Pick one of the two projects about presence. Come up with an idea for how to evolve either of them with one of the portfolio themes (alternative inputs / body sensors, motion capture, glitches and alternative interpretations)
 
 ## Kinectron 
 
