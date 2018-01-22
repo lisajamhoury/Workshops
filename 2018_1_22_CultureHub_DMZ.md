@@ -63,7 +63,7 @@ Kinectron is an open source tool that brings realtime, motion capture data into 
 
 These examples use the creative coding library, [three.js](https://threejs.org/), which is used to create and display 3D graphics in the browswer with HTML5 and webGL. 
 
-[Kinectron Three.js Examples](https://github.com/kinectron/kinectron/tree/master/examples/threejs_examples)
+[Kinectron Three.js Examples](https://github.com/kinectron/kinectron/tree/master/examples/threejs_examples)<br>
  
 Coming soon... Kinectron-Three library... !
  
@@ -71,10 +71,10 @@ Coming soon... Kinectron-Three library... !
 
 We'll look at using two Kinectrons in one website. These examples have been tested with very low latency from New York to Shanghai. 
 
-[Refest Release](https://www.dropbox.com/s/68owuy3qkllgrdy/Kinectron-Refest-win32-x64.zip?dl=0) 
+[Refest Release](https://www.dropbox.com/s/68owuy3qkllgrdy/Kinectron-Refest-win32-x64.zip?dl=0)<br> 
 Test here: http://lmj.io/projects/refest/draw/
 
-[RGBD Release](https://www.dropbox.com/s/d3u21gnh1ijva6q/KinectronRGBD-win32-x64.zip?dl=0) 
-Link1: http://lmj.io/projects/facing/particles/
-Link2: http://lmj.io/projects/facing/particles2/
+[RGBD Release](https://www.dropbox.com/s/d3u21gnh1ijva6q/KinectronRGBD-win32-x64.zip?dl=0)<br> 
+Link1: http://lmj.io/projects/facing/particles/<br>
+Link2: http://lmj.io/projects/facing/particles2/ <br>
 Link3: http://lmj.io/projects/facing/finalOneShader/
