@@ -53,15 +53,28 @@ Kinectron is an open source tool that brings realtime, motion capture data into 
 
 [p5.js](https://p5js.org/) is a creative coding library created by [Lauren McCarthy](http://lauren-mccarthy.com/) and is developed by a communicty of collaborators. It is based on the creative coding library, Processing, and allows for interesting interactive graphics on websites. 
 
-#### Gettting Started — Kinectron 
+#### Gettting Started — Kinectron in 2D
 
 [Kinectron Github](https://github.com/kinectron) <br>
-[Kinectron Examples on p5.js Web Editor](https://github.com/kinectron/kinectron/wiki/Kinectron-Examples-in-P5-Alpha-Editor)
+[Kinectron Examples on p5.js Web Editor](https://github.com/kinectron/kinectron/wiki/Kinectron-Examples-in-P5-Alpha-Editor)<br>
+[ICM Dancer's Edition: Kinect by Dan O'Sullivan](https://itp.nyu.edu/classes/dance-f16/kinect/)
 
+#### More Advanced — Kinectron in 3D
 
+These examples use the creative coding library, [three.js](https://threejs.org/), which is used to create and display 3D graphics in the browswer with HTML5 and webGL. 
 
+[Kinectron Three.js Examples](https://github.com/kinectron/kinectron/tree/master/examples/threejs_examples)
+ 
+Coming soon... Kinectron-Three library... !
+ 
+## Facing You Demos 
 
+We'll look at using two Kinectrons in one website. These examples have been tested with very low latency from New York to Shanghai. 
 
+[Refest Release](https://www.dropbox.com/s/68owuy3qkllgrdy/Kinectron-Refest-win32-x64.zip?dl=0) 
+Test here: http://lmj.io/projects/refest/draw/
 
-
-
+[RGBD Release](https://www.dropbox.com/s/d3u21gnh1ijva6q/KinectronRGBD-win32-x64.zip?dl=0) 
+Link1: http://lmj.io/projects/facing/particles/
+Link2: http://lmj.io/projects/facing/particles2/
+Link3: http://lmj.io/projects/facing/finalOneShader/
