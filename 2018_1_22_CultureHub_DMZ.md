@@ -18,18 +18,18 @@ CultureHub workshop for students from Seoul visiting NYC. Focus on performance a
 
 #### Alternative inputs to motion capture 
 
-[Beats Exposed](http://beatsexposed.com/)
+[Beats Exposed](http://beatsexposed.com/) <br>
 [Threads](http://threadsinteractive.com/)
 
 #### Embodiment in the "third" virtual space
 
-[Myron Krueger — Videoplace, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo)
-[Kinectron](http://lisajamhoury.com/portfolio/kinectron/)
+[Myron Krueger — Videoplace, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo) <br>
+[Kinectron](http://lisajamhoury.com/portfolio/kinectron/) <br>
 [Facing You](http://lisajamhoury.com/portfolio/facing-you/)
 
 #### How do computers see our bodies? 
 
-[Self Support](http://lisajamhoury.com/portfolio/self-support/)
+[Self Support](http://lisajamhoury.com/portfolio/self-support/) <br>
 [Movement and Code](http://movementandcode.com/)
 
 ## Kinectron 
@@ -40,9 +40,9 @@ The Microsoft Kinect is an inexpensive motion capture camera originally created 
 
 #### Projects made with Kinect 
 
-[Firewall by Aaron Sherwood and Mike Allison](http://aaron-sherwood.com/blog/?p=558)
-[XYZT Abstract Landscapes](https://www.am-cb.net/projets/xyzt)
-[6:35 by Donald C. Shorter Jr., Yuli Cai, and Aaron Montoya-Moraga](https://vimeo.com/197487076) 
+[Firewall by Aaron Sherwood and Mike Allison](http://aaron-sherwood.com/blog/?p=558)<br>
+[XYZT Abstract Landscapes](https://www.am-cb.net/projets/xyzt)<br>
+[6:35 by Donald C. Shorter Jr., Yuli Cai, and Aaron Montoya-Moraga](https://vimeo.com/197487076) <br>
 [Clouds](https://cloudsdocumentary.com/#trailer) / [Depth Kit](http://www.depthkit.tv/)
 
 #### About Kinectron
@@ -55,7 +55,7 @@ Kinectron is an open source tool that brings realtime, motion capture data into 
 
 #### Gettting Started — Kinectron 
 
-[Kinectron Github](https://github.com/kinectron)
+[Kinectron Github](https://github.com/kinectron) <br>
 [Kinectron Examples on p5.js Web Editor](https://github.com/kinectron/kinectron/wiki/Kinectron-Examples-in-P5-Alpha-Editor)
 
 
