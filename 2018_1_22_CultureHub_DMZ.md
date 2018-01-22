@@ -69,7 +69,9 @@ Coming soon... Kinectron-Three library... !
  
 ## Facing You Demos 
 
-We'll look at using two Kinectrons in one website. These examples have been tested with very low latency from New York to Shanghai. 
+We'll look at using two Kinectrons in one website. 
+
+These examples have been tested with very low latency from New York to Los Angeles and New York to Shanghai. 
 
 [Refest Release](https://www.dropbox.com/s/68owuy3qkllgrdy/Kinectron-Refest-win32-x64.zip?dl=0)<br> 
 Test here: http://lmj.io/projects/refest/draw/
