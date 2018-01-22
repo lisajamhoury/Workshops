@@ -16,25 +16,25 @@ CultureHub workshop for students from Seoul visiting NYC. Focus on performance a
 2. Embodiment in the third virtual space — Myron Krueger 
 3. How do computers see our bodies — glitches and creative computing 
 
-#### Alternative inputs to motion capture 
+### Alternative inputs to motion capture 
 
 [Beats Exposed](http://beatsexposed.com/) <br>
 [Threads](http://threadsinteractive.com/)
 
-#### Embodiment in the "third" virtual space
+### Embodiment in the "third" virtual space
 
 [Myron Krueger — Videoplace, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo) <br>
 [Kinectron](http://lisajamhoury.com/portfolio/kinectron/) <br>
 [Facing You](http://lisajamhoury.com/portfolio/facing-you/)
 
-#### How do computers see our bodies? 
+### How do computers see our bodies? 
 
 [Self Support](http://lisajamhoury.com/portfolio/self-support/) <br>
 [Movement and Code](http://movementandcode.com/)
 
 ## Kinectron 
 
-### Microsoft Kinect 
+#### Microsoft Kinect 
 
 The Microsoft Kinect is an inexpensive motion capture camera originally created for use with Xbox. It was quickly adopted by artists. There are two versions released in 2010 and 2013. It has infrared, color and depth cameras, and it (Kinect V2) can detect up to six human skeletons in three-dimensional space. Microsoft officially announced it was discountinuing the Kinect in October 2017. 
 
